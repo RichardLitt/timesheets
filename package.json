@@ -1,0 +1,26 @@
+{
+  "name": "timesheets",
+  "version": "0.0.0",
+  "description": "A small library to work with JSON timesheet data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RichardLitt/timesheets.git"
+  },
+  "keywords": [
+    "time"
+  ],
+  "author": "Richard Littauer <richard.littauer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RichardLitt/timesheets/issues"
+  },
+  "homepage": "https://github.com/RichardLitt/timesheets",
+  "devDependencies": {
+    "handlebars": "^2.0.0",
+    "moment": "^2.8.2"
+  }
+}

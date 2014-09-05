@@ -1,0 +1,10 @@
+// Example data
+[
+  {
+    "start": "08/26 11:00", // Moment time
+    "end": "23:00",         // Moment time 
+    "duration": "12",       // Duration of time, moment format
+    "notes": "frolicing",   // Notes
+    "project": "life"     // Overall task
+  }
+]
